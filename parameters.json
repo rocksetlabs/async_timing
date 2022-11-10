@@ -1,0 +1,16 @@
+[
+  {
+    "parameters": [
+      {
+        "name": "start_date",
+        "type": "date",
+        "value": "2021-01-01"
+      },
+      {
+        "name": "end_date",
+        "type": "date",
+        "value": "2021-01-02"
+      }
+    ]
+  }
+]

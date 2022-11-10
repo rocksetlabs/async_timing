@@ -1,0 +1,16 @@
+[
+  {
+    "parameters": [
+      {
+        "name": "limit",
+        "type": "int",
+        "value": "100"
+      },
+      {
+        "name": "offset",
+        "type": "int",
+        "value": "0"
+      }
+    ]
+  }
+]
